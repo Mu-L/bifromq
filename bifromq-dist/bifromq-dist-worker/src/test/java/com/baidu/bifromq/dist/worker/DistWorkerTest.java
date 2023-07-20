@@ -43,7 +43,6 @@ import com.baidu.bifromq.basekv.store.proto.KVRangeRWReply;
 import com.baidu.bifromq.basekv.store.proto.KVRangeRWRequest;
 import com.baidu.bifromq.basekv.store.proto.ReplyCode;
 import com.baidu.bifromq.baserpc.utils.NettyUtil;
-import com.baidu.bifromq.dist.client.ClearResult;
 import com.baidu.bifromq.dist.client.IDistClient;
 import com.baidu.bifromq.dist.entity.EntityUtil;
 import com.baidu.bifromq.dist.rpc.proto.AddTopicFilterReply;
